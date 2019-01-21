@@ -7,7 +7,7 @@
  <div class="container">
    <div class="navigations">
    <p>
-   <a href="logo.jpg">
+   <img src="/test/logo.jpg">
    </p>
    </div>
    <div class="header">

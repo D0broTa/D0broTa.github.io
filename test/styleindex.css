@@ -1,1 +1,31 @@
-1
+body {
+	margin: 0;
+	font-family: arial;
+	font-size:20px;
+}
+nav {
+	background-color:#f6f8b4;
+	padding: 10px;
+}
+header {
+	background-color:#dcd9dc;
+	padding: 10px;
+}
+h1, h2 {
+	text-align:center;
+}
+h1 {
+	font-size:80px;
+}
+section img {
+	width: 200px;
+}
+section {
+	background-color:#f8d2f8;
+	padding: 10px;
+}
+footer {
+	background-color:rgba(57, 56, 57,0.9);
+	padding: 15px;
+	color:#f6f8b4;
+}
